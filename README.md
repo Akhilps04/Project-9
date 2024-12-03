@@ -79,3 +79,7 @@ Integrate IoT devices for real-time recommendations.
 5)Multi-Language Support:
 Enable the application to support regional languages for better accessibility.
 
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors and colleagues for their guidance.
+
