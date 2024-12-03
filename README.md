@@ -1,4 +1,3 @@
-# Project 9
 # Hybrid Crop Recommendation Model
 This repository contains a hybrid machine learning and deep learning model designed for crop recommendation. The model integrates Naive Bayes, Decision Tree, and Deep Neural Networks to deliver robust predictions for recommending the most suitable crop based on given environmental parameters.
 
